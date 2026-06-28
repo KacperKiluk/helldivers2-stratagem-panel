@@ -94,16 +94,3 @@ The app is free to use. If it saved you time and you want to support future upda
 ```text
 https://buymeacoffee.com/kacperkiluk
 ```
-
-## Release Checklist
-
-Before publishing a new release:
-
-1. Build the helper app in the private source repo.
-2. Test the built `.exe`.
-3. Generate fresh profiles.
-4. Import profiles into Stream Panel and verify scene navigation.
-5. Repair Stream Panel links if needed.
-6. Copy release files into this repo.
-7. Commit and merge release files into `main`.
-8. Change repository visibility to public.
