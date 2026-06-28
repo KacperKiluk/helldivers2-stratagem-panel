@@ -87,6 +87,14 @@ profiles\  Stream Panel GK150 profiles
 - The app is free to use. If a support popup appears after repeated use, it is voluntary and does not block usage.
 - This is a fan-made utility and is not affiliated with Arrowhead, Sony, Helldivers 2, or MadDog/Stream Panel GK150.
 
+## Support
+
+The app is free to use. If it saved you time and you want to support future updates, you can donate here:
+
+```text
+https://buymeacoffee.com/kacperkiluk
+```
+
 ## Release Checklist
 
 Before publishing a new release:

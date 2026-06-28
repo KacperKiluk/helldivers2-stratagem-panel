@@ -6,6 +6,12 @@ The app remains usable without payment. If a support message appears after repea
 
 If you find the project useful, you can support the author through the support link or payment method provided in the repository or app.
 
+Support link:
+
+```text
+https://buymeacoffee.com/kacperkiluk
+```
+
 ## Reporting Issues
 
 When reporting a problem, include:
