@@ -1,1 +1,1 @@
-# maddog-helldivers2
+# helldivers2-stratagem-panel
